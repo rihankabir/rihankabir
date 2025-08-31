@@ -14,8 +14,8 @@ I specialize in building clean, modern, and fully responsive websites using the 
 
 ## 📁 Featured Projects
 
-- 🔗 [Portfolio Website](https://rihankabir.github.io/portfolio-rihanul-kabir/)  
+- 🔗 [Portfolio Website](https://rihankabir.com/)  
 - 🛍️ [Responsive Fashion Store](https://rihankabir.github.io/responsive-fashion-store/)  
 - 🛒 [Full E-Commerce Website](https://rihankabir.github.io/E-Commerce-Website/)  
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me-- rihankabir006@gmail.com
