@@ -1,21 +1,83 @@
-# 👋 Hi, I'm Md. Rihanul Kabir
+<h1 align="center">Hi 👋, I'm Md. Rihanul Kabir</h1>
+<h3 align="center">Full Stack Web Developer | WordPress & WooCommerce Specialist</h3>
 
-🚀 A passionate **Front-End Developer & Web Designer** from Bangladesh.
+<p align="center">
+  🌍 From Bangladesh  
+  💻 Building modern, responsive, and user-friendly websites  
+  🚀 Passionate about clean code & real-world projects  
+</p>
 
-I specialize in building clean, modern, and fully responsive websites using the latest web technologies. I love turning design concepts into interactive and accessible digital experiences.
+---
 
-## 🔧 My Skills
+## 🧑‍💻 About Me
 
-- 💻 HTML5, CSS3, Bootstrap  
-- ⚙️ JavaScript 
-- 🌐 Responsive Web Design, UI Implementation  
-- 🛠️ Git, GitHub, PSD to HTML, Figma,XD to Code   
-- 🎯 Problem Solving, Time Management, Teamwork ,English Communication  
+I am a **Full Stack Web Developer** with hands-on experience in **HTML, CSS, JavaScript, PHP, and WordPress**.  
+I specialize in creating **responsive websites, WooCommerce stores, and custom WordPress solutions**.
 
-## 📁 Featured Projects
+- 🔹 Frontend & Backend Development  
+- 🔹 WordPress Customization & WooCommerce  
+- 🔹 PSD/Figma to HTML & WordPress  
+- 🔹 Database-driven PHP applications  
 
-- 🔗 [Portfolio Website](https://rihankabir.com/)  
-- 🛍️ [Responsive Fashion Store](https://rihankabir.github.io/responsive-fashion-store/)  
-- 🛒 [Full E-Commerce Website](https://rihankabir.github.io/E-Commerce-Website/)  
+---
 
-## 🌐 Connect with Me-- rihankabir006@gmail.com
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML5  
+- CSS3  
+- Bootstrap  
+- JavaScript  
+- jQuery  
+
+### Backend
+- PHP  
+- MySQL  
+
+### CMS & E-Commerce
+- WordPress  
+- WooCommerce  
+
+### Tools
+- Git & GitHub  
+- VS Code
+- sublime text 
+- Chrome DevTools  
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 E-Commerce Website
+- WooCommerce-based online store  
+- Product management, cart & checkout  
+- Responsive design  
+🔗 Live: https://rihankabir.com/shopcoo/
+
+### 🏠 Real Estate Website
+- WordPress real estate listing site  
+- Custom layout & UI  
+🔗 Live: https://rihankabir.com/Estatein/
+
+### 🏺 Moon Ceramic Website
+- Custom WordPress business website  
+- Clean UI & responsive layout  
+🔗 Live: https://rihankabir.com/Moon%20Ceramic/
+
+### 🌐 Portfolio Website
+- Personal portfolio showcasing projects  
+- Built with modern web technologies  
+🔗 Live: https://rihankabir.com/
+
+
+---
+
+## 📫 Contact Me
+
+- 🌐 Portfolio: https://rihankabir.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/rihankabir/  
+- 📧 Email: rihankabir006@gmail.com  
+
+---
+
+⭐ **Feel free to explore my repositories and connect with me!**
