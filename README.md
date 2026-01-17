@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 About Me
 
-I am a **Full Stack Web Developer** with hands-on experience in **HTML, CSS, JavaScript, PHP, and WordPress**.  
+I am a **Full Stack Web Developer** with hands-on experience in **HTML, CSS,Bootstrap, JavaScript,jQuery, PHP,Mysql and WordPress**.  
 I specialize in creating **responsive websites, WooCommerce stores, and custom WordPress solutions**.
 
 - 🔹 Frontend & Backend Development  
